@@ -3,7 +3,9 @@
 This repository contains my implementation of an Agentic RAG (Retrieval-Augmented Generation) system powered by LlamaIndex, featuring:
 
 ✅ A Router Engine that dynamically selects query paths
+
 ✅ An Agent Reasoning Loop capable of step-by-step tool use
+
 ✅ A Multi-Document Research Agent with multi-index retrieval
 
 The goal of this project is to demonstrate intelligent retrieval, automatic reasoning, tool-use, and agent behavior across multiple document sources — using only open-source frameworks.
