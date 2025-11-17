@@ -38,7 +38,9 @@ Enables cross-document reasoning and contextual synthesis
 🧩 Files in This Repository
 Notebook	Purpose
 Router_Engine_using_Multi_Index_RAG.ipynb	Implements the router engine using multiple indexes and query engines
+
 Building_an_Agent_Reasoning_Loop.ipynb	Creates a reasoning agent capable of multi-step tool usage
+
 Building_a_Multi-Document_Agent.ipynb	Extends the agent to handle multiple documents and indexes
 
 Each notebook is independent but can be combined to form a complete agentic RAG system.
